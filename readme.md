@@ -2,4 +2,4 @@
 - meowww
 - hi i am catking
 
-![Project Screenshot](images\Screenshot (9).png)
+![Project Screenshot](images\Screenshot.png)
