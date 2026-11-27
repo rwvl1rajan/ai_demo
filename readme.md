@@ -2,4 +2,4 @@
 - meowww
 - hi i am catking
 
-![alt text](<Screenshot (9).png>)
+images\Screenshot (9).png
